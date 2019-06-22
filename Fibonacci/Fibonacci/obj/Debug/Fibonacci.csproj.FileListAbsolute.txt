@@ -1,0 +1,6 @@
+D:\Users\Won\Desktop\作品彙整\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\Users\Won\Desktop\作品彙整\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+D:\Users\Won\Desktop\作品彙整\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\Users\Won\Desktop\作品彙整\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Users\Won\Desktop\作品彙整\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+D:\Users\Won\Desktop\作品彙整\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
